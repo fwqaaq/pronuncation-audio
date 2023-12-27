@@ -3,12 +3,21 @@
   "displayName": "pronunciation-audio",
   "description": "Markdown plugin for English text-to-speech",
   "version": "0.0.1",
+  "publisher": "fwqaaq",
   "engines": {
     "vscode": "^1.85.0"
   },
   "categories": [
     "Notebooks"
   ],
+  "homepage": "https://github.com/fwqaaq/pronuncation-audio#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fwqaaq/pronuncation-audio"
+  },
+  "bugs": {
+    "url": "https://github.com/fwqaaq/pronuncation-audio/issues"
+  },
   "contributes": {
     "markdown.markdownItPlugins": true
   },

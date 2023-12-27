@@ -8,4 +8,4 @@ This is a VSCode plugin for obtaining the pronunciation of English words, using 
 
 Like this:
 
-![Use it](./image.png)
+<img width="832" alt="image" src="https://github.com/fwqaaq/pronuncation-audio/assets/82551626/12bc191b-ee26-49ef-8e87-a7e8f4eab825">
